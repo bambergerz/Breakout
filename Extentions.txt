@@ -1,0 +1,14 @@
+# Extentions.txt
+# YOUR NAME(S) AND NETID(S) HERE: Zachary Bamberger (zeb3) and Ingrid Libman (iml29)
+# DATE COMPLETED HERE: 12/11/2015
+
+Sounds:
+We implemented a bouncing sound for whenever the ball hits the paddle. In addition,
+we also made it so that a random sound from a list of sounds is chosen to play when
+the ball hits a brick.
+
+Increasing ball speed:
+Within a single life attempt, every 5 times that the ball hits the paddle, the speed
+of the ball increases by a factor of 1.5, increasing the intensity of the game.
+
+TO PAUSE THE GAME: You must press the 'escape' button. 
